@@ -8,8 +8,8 @@ class YopConfig
     //public static $serverRoot = "http://ycetest.yeepay.com:30228/yop-center";
     //public static $yosServerRoot = "http://ycetest.yeepay.com:30228/yop-center";
 
-    //public $serverRoot = "http://127.0.0.1:8064/yop-center";
-    //public $yosServerRoot = "http://127.0.0.1:8064/yop-center";
+    // public static $serverRoot = "http://127.0.0.1:8080/yop-center";
+    //public static $yosServerRoot = "http://127.0.0.1:8064/yop-center";
 
     public static $appKey;
     public static $hmacSecretKey;// 签名
